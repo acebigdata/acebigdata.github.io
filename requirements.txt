@@ -1,0 +1,9 @@
+Markdown
+pelican
+jupyter
+ipython
+nbconvert
+beautifulsoup4
+ghp-import
+matplotlib
+bokeh
