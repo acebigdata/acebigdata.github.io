@@ -41,6 +41,10 @@ MENUITEMS = [
         ('Chronological', '/archives.html'),
         ('Tags', '/tags.html'),
         ]),
+    ('SDC', [
+        ('Intro', '/sdc-intro.html'),
+        ('Finding Lane Lines', '/sdc-finding-lane-lines.html'),
+        ]),    
     ('DLND', [
         ('Neural Networks', '/dlnd-nn.html'),
         ('Convolutional Neural Networks', '/dlnd-cnn.html'),
