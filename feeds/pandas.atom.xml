@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Ace Big Data - pandas</title><link href="/" rel="alternate"></link><link href="/feeds/pandas.atom.xml" rel="self"></link><id>/</id><updated>2017-06-14T00:00:00-04:00</updated><entry><title>Brandon Rhodes - Pandas From The Ground Up - PyCon 2015 (Part One)</title><link href="/2017/06/pandas-brandon-rhodes-part1/" rel="alternate"></link><published>2017-06-14T00:00:00-04:00</published><updated>2017-06-14T00:00:00-04:00</updated><author><name>Isaac Zhou</name></author><id>tag:None,2017-06-14:/2017/06/pandas-brandon-rhodes-part1/</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ace Big Data - pandas</title><link href="https://acebigdata.github.io/" rel="alternate"></link><link href="https://acebigdata.github.io/feeds/pandas.atom.xml" rel="self"></link><id>https://acebigdata.github.io/</id><updated>2017-06-14T00:00:00-04:00</updated><entry><title>Brandon Rhodes - Pandas From The Ground Up - PyCon 2015 (Part One)</title><link href="https://acebigdata.github.io/pandas-brandon-rhodes-part1.html" rel="alternate"></link><published>2017-06-14T00:00:00-04:00</published><updated>2017-06-14T00:00:00-04:00</updated><author><name>Isaac Zhou</name></author><id>tag:acebigdata.github.io,2017-06-14:/pandas-brandon-rhodes-part1.html</id><summary type="html">
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
@@ -6769,7 +6769,7 @@ Name: type, dtype: int64&lt;/pre&gt;
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="pandas"></category><category term="python"></category></entry><entry><title>Brandon Rhodes - Pandas From The Ground Up - PyCon 2015 (Part Two)</title><link href="/2017/06/pandas-brandon-rhodes-part2/" rel="alternate"></link><published>2017-06-14T00:00:00-04:00</published><updated>2017-06-14T00:00:00-04:00</updated><author><name>Isaac Zhou</name></author><id>tag:None,2017-06-14:/2017/06/pandas-brandon-rhodes-part2/</id><summary type="html">
+</content><category term="pandas"></category><category term="python"></category></entry><entry><title>Brandon Rhodes - Pandas From The Ground Up - PyCon 2015 (Part Two)</title><link href="https://acebigdata.github.io/pandas-brandon-rhodes-part2.html" rel="alternate"></link><published>2017-06-14T00:00:00-04:00</published><updated>2017-06-14T00:00:00-04:00</updated><author><name>Isaac Zhou</name></author><id>tag:acebigdata.github.io,2017-06-14:/pandas-brandon-rhodes-part2.html</id><summary type="html">
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
