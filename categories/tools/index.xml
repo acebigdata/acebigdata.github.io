@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on ACE big data</title>
+    <link>www.acebigdata.com/categories/tools/</link>
+    <description>Recent content in Tools on ACE big data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2017 Copyright AceBigData</copyright>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="www.acebigdata.com/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown</title>
+      <link>www.acebigdata.com/post/markdown/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.acebigdata.com/post/markdown/</guid>
+      <description>This tutorial shows how to use markdown tools. Even though I love emacs orgmode, it&amp;rsquo;s still important and interesting to learn the markdown language.
+Creating the Emphasis  Can either use &amp;ldquo;_&amp;rdquo; or &amp;ldquo;*&amp;rdquo; to wrap around text
+ e.g. * for Italic Code
+ e.g. ** Bold Code
+    Use &amp;ldquo;&amp;rdquo;&amp;rdquo; for code blocks
+ e.g. Code  Use &amp;ldquo;\&amp;rdquo; for escaping
+ Use html tags</description>
+    </item>
+    
+  </channel>
+</rss>

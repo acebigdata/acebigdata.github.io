@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical Learning on ACE big data</title>
+    <link>www.acebigdata.com/tags/statistical-learning/</link>
+    <description>Recent content in Statistical Learning on ACE big data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2017 Copyright AceBigData</copyright>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="www.acebigdata.com/tags/statistical-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistical Learning</title>
+      <link>www.acebigdata.com/post/statistical-learning/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.acebigdata.com/post/statistical-learning/</guid>
+      <description>Definition  A closure is a function that makes use of variables defined in outer functions that have previously returned We have to &amp;ldquo;return&amp;rdquo; the inner function for this to work We can either call the inner function right away by using an extra () or we can store the result of the function in a variable Closure only exists when an inner function makes use of variables defined from an outer function that has returned.</description>
+    </item>
+    
+  </channel>
+</rss>

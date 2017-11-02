@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ACE big data</title>
+    <link>www.acebigdata.com/post/</link>
+    <description>Recent content in Posts on ACE big data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2017 Copyright AceBigData</copyright>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="www.acebigdata.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown</title>
+      <link>www.acebigdata.com/post/markdown/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.acebigdata.com/post/markdown/</guid>
+      <description>This tutorial shows how to use markdown tools. Even though I love emacs orgmode, it&amp;rsquo;s still important and interesting to learn the markdown language.
+Creating the Emphasis  Can either use &amp;ldquo;_&amp;rdquo; or &amp;ldquo;*&amp;rdquo; to wrap around text
+ e.g. * for Italic Code
+ e.g. ** Bold Code
+    Use &amp;ldquo;&amp;rdquo;&amp;rdquo; for code blocks
+ e.g. Code  Use &amp;ldquo;\&amp;rdquo; for escaping
+ Use html tags</description>
+    </item>
+    
+    <item>
+      <title>Statistical Learning</title>
+      <link>www.acebigdata.com/post/statistical-learning/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.acebigdata.com/post/statistical-learning/</guid>
+      <description>Definition  A closure is a function that makes use of variables defined in outer functions that have previously returned We have to &amp;ldquo;return&amp;rdquo; the inner function for this to work We can either call the inner function right away by using an extra () or we can store the result of the function in a variable Closure only exists when an inner function makes use of variables defined from an outer function that has returned.</description>
+    </item>
+    
+    <item>
+      <title>Start Writing</title>
+      <link>www.acebigdata.com/post/my-new-post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.acebigdata.com/post/my-new-post/</guid>
+      <description>Start writing&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
