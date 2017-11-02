@@ -1,0 +1,17 @@
+theme="amp"
+baseurl = "www.acebigdata.com"
+title = "ACE big data"
+copyright = "© 2017 Copyright AceBigData"
+canonifyurls = true
+
+[params]
+  description = "Big data in Action! This website contains a number of data science projects" #optional
+  googleanalytics = "UA-78795127-1" # optional
+
+# optional
+[social]
+  twitter = "Your Twitter Name"
+  github = "acebigdata"
+#  facebook = "Your facebook Name"
+#  gplus = "Your Google+ profile name"
+  linkedin = "isaaczhou"
