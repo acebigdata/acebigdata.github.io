@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization on ACE big data</title>
+    <link>http://www.acebigdata.com/categories/visualization/</link>
+    <description>Recent content in Visualization on ACE big data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2017 Copyright AceBigData</copyright>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.acebigdata.com/categories/visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Visualization Matplotlib</title>
+      <link>http://www.acebigdata.com/post/data-visualization-matplotlib/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acebigdata.com/post/data-visualization-matplotlib/</guid>
+      <description>Following a review of basic plotting with Matplotlib, this chapter delves into customizing plots using Matplotlib. This includes overlaying plots, making subplots, controlling axes, adding legends and annotations, and using different plot styles.
+import matplotlib.pyplot as plt import numpy as np import pandas as pd dry =[0.33,0.27,0.32,0.41,0.42,0.45,0.57,0.52,0.45,0.39,0.37,0.37] wet = [0.66,0.72,0.67,0.58,0.57,0.54,0.42,0.47,0.54,0.60,0.62,0.62] t = np.arange(1,13) plt.plot(t, dry, &amp;quot;red&amp;quot;) plt.plot(t, wet, &amp;quot;blue&amp;quot;) # Appear on the same axes plt.xlabel(&amp;quot;Date&amp;quot;) plt.title(&amp;quot;dry vs. wet&amp;quot;) plt.show()  </description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>http://www.acebigdata.com/post/d3testing/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acebigdata.com/post/d3testing/</guid>
+      <description>Try to embed d3 into the md    var data = d3.range(40).map(function(i) { return i % 5 ? {x: i / 39, y: (Math.sin(i / 3) + 2) / 4} : null; }); var margin = {top: 40, right: 40, bottom: 40, left: 40}, width = 960 - margin.left - margin.right, height = 500 - margin.top - margin.bottom; var x = d3.scaleLinear() .range([0, width]); var y = d3.scaleLinear() .</description>
+    </item>
+    
+  </channel>
+</rss>

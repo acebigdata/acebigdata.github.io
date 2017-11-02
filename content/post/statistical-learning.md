@@ -2,35 +2,23 @@
 title: "Statistical Learning"
 date: 2017-11-02
 tags: ["statistical-learning"]
-categories: ["python"]
+categories: ["statistical-learning"]
 menu:
   main:
-    parent: Python
+    parent: Machine Learning
 ---
 
-## Definition
+Statistical learning refers to a vast set of tools for understanding data.
+These tools can be classified as supervised or unsupervised.
 
-1.  A closure is a function that makes use of variables defined in outer
-    functions that have previously returned
-2.  We have to "return" the inner function for this to work
-3.  We can either call the inner function right away by using an extra () or we
-    can store the result of the function in a variable
-4.  Closure only exists when an inner function makes use of variables defined
-    from an outer function that has returned. If the inner function does not
-    make use of any of the external variables all we have is a nested function
+## Supervised Learning
 
-## Example
-```javascript
-function outer() {
-    var start = "Closures are"
-    return function inner(){
-        return start + " here";
-    }
-}
-```
-```javascript
-var outer = (a) => inner = (b) => a + b
-```
-```javascript
-var outerFn = () => innerFn = () => "Just returned from the inner function"
-```
+Broadly speaking, supervised statistical learning involves building a
+statistical model for predicting, or estimating, an output based on one or more
+inputs. Problems of this nature occur in fields as diverse as business,
+medicine, astrophysics, and public policy.
+
+## Unsupervised Learning
+
+With unsupervised statistical learning, there are inputs but no supervising
+output; nevertheless we can learn relationships and structure from such data.

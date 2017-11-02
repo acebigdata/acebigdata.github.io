@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Data Visualization Matplotlib</title>
+      <link>http://www.acebigdata.com/post/data-visualization-matplotlib/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acebigdata.com/post/data-visualization-matplotlib/</guid>
+      <description>Following a review of basic plotting with Matplotlib, this chapter delves into customizing plots using Matplotlib. This includes overlaying plots, making subplots, controlling axes, adding legends and annotations, and using different plot styles.
+import matplotlib.pyplot as plt import numpy as np import pandas as pd dry =[0.33,0.27,0.32,0.41,0.42,0.45,0.57,0.52,0.45,0.39,0.37,0.37] wet = [0.66,0.72,0.67,0.58,0.57,0.54,0.42,0.47,0.54,0.60,0.62,0.62] t = np.arange(1,13) plt.plot(t, dry, &amp;quot;red&amp;quot;) plt.plot(t, wet, &amp;quot;blue&amp;quot;) # Appear on the same axes plt.xlabel(&amp;quot;Date&amp;quot;) plt.title(&amp;quot;dry vs. wet&amp;quot;) plt.show()  </description>
+    </item>
+    
+    <item>
       <title>Markdown</title>
       <link>http://www.acebigdata.com/post/markdown/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
@@ -32,7 +42,18 @@ Creating the Emphasis  Can either use &amp;ldquo;_&amp;rdquo; or &amp;ldquo;*&am
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.acebigdata.com/post/statistical-learning/</guid>
-      <description>Definition  A closure is a function that makes use of variables defined in outer functions that have previously returned We have to &amp;ldquo;return&amp;rdquo; the inner function for this to work We can either call the inner function right away by using an extra () or we can store the result of the function in a variable Closure only exists when an inner function makes use of variables defined from an outer function that has returned.</description>
+      <description>Statistical learning refers to a vast set of tools for understanding data. These tools can be classified as supervised or unsupervised.
+Supervised Learning Broadly speaking, supervised statistical learning involves building a statistical model for predicting, or estimating, an output based on one or more inputs. Problems of this nature occur in fields as diverse as business, medicine, astrophysics, and public policy.
+Unsupervised Learning With unsupervised statistical learning, there are inputs but no supervising output; nevertheless we can learn relationships and structure from such data.</description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>http://www.acebigdata.com/post/d3testing/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acebigdata.com/post/d3testing/</guid>
+      <description>Try to embed d3 into the md    var data = d3.range(40).map(function(i) { return i % 5 ? {x: i / 39, y: (Math.sin(i / 3) + 2) / 4} : null; }); var margin = {top: 40, right: 40, bottom: 40, left: 40}, width = 960 - margin.left - margin.right, height = 500 - margin.top - margin.bottom; var x = d3.scaleLinear() .range([0, width]); var y = d3.scaleLinear() .</description>
     </item>
     
     <item>

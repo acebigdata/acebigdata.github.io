@@ -1,11 +1,11 @@
 ---
 title: "Start Writing"
 date: "2017-01-01"
-tags: ["", ""]
-categories: ["python"]
+tags: ["zen", "zen"]
+categories: ["zen"]
 menu:
   main:
-    parent: Python
+    parent: Zen
 ---
 
 Start writing...

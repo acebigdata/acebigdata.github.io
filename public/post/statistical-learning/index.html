@@ -35,12 +35,10 @@
             
             
               
-                <li class="ampstart-nav-item abe-nav-list www-current-page"><a href="http://www.acebigdata.com/" class="text-decoration-none block">Python</a>
+                <li class="ampstart-nav-item abe-nav-list www-current-page"><a href="http://www.acebigdata.com/" class="text-decoration-none block">Machine Learning</a>
                 <div class="abe-list-container">
                     <div class="abe-list-shadow"></div>
                     <ul class="list-reset m0 p0">
-                      
-                        <li><a href="http://www.acebigdata.com/post/my-new-post/">Start Writing</a></li>
                       
                         <li><a href="http://www.acebigdata.com/post/statistical-learning/">Statistical Learning</a></li>
                       
@@ -62,6 +60,32 @@
                 </li>
               
             
+              
+                <li class="ampstart-nav-item abe-nav-list"><a href="http://www.acebigdata.com/" class="text-decoration-none block">Visualization</a>
+                <div class="abe-list-container">
+                    <div class="abe-list-shadow"></div>
+                    <ul class="list-reset m0 p0">
+                      
+                        <li><a href="http://www.acebigdata.com/post/data-visualization-matplotlib/">Data Visualization Matplotlib</a></li>
+                      
+                    </ul>
+                </div>
+                </li>
+              
+            
+              
+                <li class="ampstart-nav-item abe-nav-list"><a href="http://www.acebigdata.com/" class="text-decoration-none block">Zen</a>
+                <div class="abe-list-container">
+                    <div class="abe-list-shadow"></div>
+                    <ul class="list-reset m0 p0">
+                      
+                        <li><a href="http://www.acebigdata.com/post/my-new-post/">Start Writing</a></li>
+                      
+                    </ul>
+                </div>
+                </li>
+              
+            
             </ul>
         </nav>
     </header>
@@ -77,10 +101,8 @@
                     
                     <amp-accordion layout="container" disable-session-states class="ampstart-dropdown">
                         <section>
-                            <header>Python</header>
+                            <header>Machine Learning</header>
                             <ul class="ampstart-dropdown-items list-reset m0 p0">
-                            
-                                <li class="ampstart-dropdown-item"><a href="http://www.acebigdata.com/post/my-new-post/" class="text-decoration-none">Start Writing</a></li>
                             
                                 <li class="ampstart-dropdown-item"><a href="http://www.acebigdata.com/post/statistical-learning/" class="text-decoration-none">Statistical Learning</a></li>
                             
@@ -111,6 +133,44 @@
             </ul>
             
           
+            
+            <ul class="list-reset m0 p0 caps h5">
+                <li class="ampstart-nav-item ampstart-nav-dropdown relative">
+                    
+                    <amp-accordion layout="container" disable-session-states class="ampstart-dropdown">
+                        <section>
+                            <header>Visualization</header>
+                            <ul class="ampstart-dropdown-items list-reset m0 p0">
+                            
+                                <li class="ampstart-dropdown-item"><a href="http://www.acebigdata.com/post/data-visualization-matplotlib/" class="text-decoration-none">Data Visualization Matplotlib</a></li>
+                            
+                            </ul>
+                        </section>
+                    </amp-accordion>
+                    
+                </li>
+            </ul>
+            
+          
+            
+            <ul class="list-reset m0 p0 caps h5">
+                <li class="ampstart-nav-item ampstart-nav-dropdown relative">
+                    
+                    <amp-accordion layout="container" disable-session-states class="ampstart-dropdown">
+                        <section>
+                            <header>Zen</header>
+                            <ul class="ampstart-dropdown-items list-reset m0 p0">
+                            
+                                <li class="ampstart-dropdown-item"><a href="http://www.acebigdata.com/post/my-new-post/" class="text-decoration-none">Start Writing</a></li>
+                            
+                            </ul>
+                        </section>
+                    </amp-accordion>
+                    
+                </li>
+            </ul>
+            
+          
         </nav>
     </amp-sidebar>
     
@@ -121,7 +181,7 @@
         <div class="www-index-header-action mx-auto">Thu, Nov 2, 2017</div>
         <div class="www-index-header-action mx-auto">
             
-                <a href="http://www.acebigdata.com/categories/python">python</a>
+                <a href="http://www.acebigdata.com/categories/statistical-learning">statistical-learning</a>
             
         </div>
         <div class="www-index-header-action mx-auto">
@@ -141,34 +201,20 @@
                 <section class="www-component-desc">
                 
 
-<h2 id="definition">Definition</h2>
+<p>Statistical learning refers to a vast set of tools for understanding data.
+These tools can be classified as supervised or unsupervised.</p>
 
-<ol>
-<li>A closure is a function that makes use of variables defined in outer
-functions that have previously returned</li>
-<li>We have to &ldquo;return&rdquo; the inner function for this to work</li>
-<li>We can either call the inner function right away by using an extra () or we
-can store the result of the function in a variable</li>
-<li>Closure only exists when an inner function makes use of variables defined
-from an outer function that has returned. If the inner function does not
-make use of any of the external variables all we have is a nested function</li>
-</ol>
+<h2 id="supervised-learning">Supervised Learning</h2>
 
-<h2 id="example">Example</h2>
+<p>Broadly speaking, supervised statistical learning involves building a
+statistical model for predicting, or estimating, an output based on one or more
+inputs. Problems of this nature occur in fields as diverse as business,
+medicine, astrophysics, and public policy.</p>
 
-<pre><code class="language-javascript">function outer() {
-    var start = &quot;Closures are&quot;
-    return function inner(){
-        return start + &quot; here&quot;;
-    }
-}
-</code></pre>
+<h2 id="unsupervised-learning">Unsupervised Learning</h2>
 
-<pre><code class="language-javascript">var outer = (a) =&gt; inner = (b) =&gt; a + b
-</code></pre>
-
-<pre><code class="language-javascript">var outerFn = () =&gt; innerFn = () =&gt; &quot;Just returned from the inner function&quot;
-</code></pre>
+<p>With unsupervised statistical learning, there are inputs but no supervising
+output; nevertheless we can learn relationships and structure from such data.</p>
 
                 </section>
 

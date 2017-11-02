@@ -11,11 +11,11 @@
     
     
     <item>
-      <title>Python</title>
-      <link>http://www.acebigdata.com/categories/python/</link>
+      <title>Statistical Learning</title>
+      <link>http://www.acebigdata.com/categories/statistical-learning/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.acebigdata.com/categories/python/</guid>
+      <guid>http://www.acebigdata.com/categories/statistical-learning/</guid>
       <description></description>
     </item>
     
@@ -25,6 +25,24 @@
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.acebigdata.com/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>http://www.acebigdata.com/categories/visualization/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acebigdata.com/categories/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zen</title>
+      <link>http://www.acebigdata.com/categories/zen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acebigdata.com/categories/zen/</guid>
       <description></description>
     </item>
     
