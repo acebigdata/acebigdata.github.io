@@ -3,75 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.acebigdata.com/post/markdown/</loc>
+    <loc>http://www.acebigdata.com/post/markdown/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>www.acebigdata.com/post/statistical-learning/</loc>
+    <loc>http://www.acebigdata.com/post/statistical-learning/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>www.acebigdata.com/post/my-new-post/</loc>
+    <loc>http://www.acebigdata.com/post/my-new-post/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>www.acebigdata.com/tags/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.acebigdata.com/</loc>
-    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.acebigdata.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.acebigdata.com/tags/markdown/</loc>
-    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.acebigdata.com/post/</loc>
-    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.acebigdata.com/categories/python/</loc>
-    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.acebigdata.com/tags/statistical-learning/</loc>
-    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.acebigdata.com/tags/</loc>
+    <loc>http://www.acebigdata.com/tags/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.acebigdata.com/tags/tools/</loc>
+    <loc>http://www.acebigdata.com/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.acebigdata.com/categories/tools/</loc>
+    <loc>http://www.acebigdata.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acebigdata.com/tags/markdown/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acebigdata.com/post/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acebigdata.com/categories/python/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acebigdata.com/tags/statistical-learning/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acebigdata.com/tags/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acebigdata.com/tags/tools/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acebigdata.com/categories/tools/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

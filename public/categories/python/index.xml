@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on ACE big data</title>
-    <link>www.acebigdata.com/categories/python/</link>
+    <link>http://www.acebigdata.com/categories/python/</link>
     <description>Recent content in Python on ACE big data</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2017 Copyright AceBigData</copyright>
     <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.acebigdata.com/categories/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.acebigdata.com/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Statistical Learning</title>
-      <link>www.acebigdata.com/post/statistical-learning/</link>
+      <link>http://www.acebigdata.com/post/statistical-learning/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>www.acebigdata.com/post/statistical-learning/</guid>
+      <guid>http://www.acebigdata.com/post/statistical-learning/</guid>
       <description>Definition  A closure is a function that makes use of variables defined in outer functions that have previously returned We have to &amp;ldquo;return&amp;rdquo; the inner function for this to work We can either call the inner function right away by using an extra () or we can store the result of the function in a variable Closure only exists when an inner function makes use of variables defined from an outer function that has returned.</description>
     </item>
     
     <item>
       <title>Start Writing</title>
-      <link>www.acebigdata.com/post/my-new-post/</link>
+      <link>http://www.acebigdata.com/post/my-new-post/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>www.acebigdata.com/post/my-new-post/</guid>
+      <guid>http://www.acebigdata.com/post/my-new-post/</guid>
       <description>Start writing&amp;hellip;</description>
     </item>
     

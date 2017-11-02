@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ACE big data</title>
-    <link>www.acebigdata.com/tags/</link>
+    <link>http://www.acebigdata.com/tags/</link>
     <description>Recent content in Tags on ACE big data</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2017 Copyright AceBigData</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.acebigdata.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.acebigdata.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>www.acebigdata.com/tags/</link>
+      <link>http://www.acebigdata.com/tags/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>www.acebigdata.com/tags/</guid>
+      <guid>http://www.acebigdata.com/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>www.acebigdata.com/tags/markdown/</link>
+      <link>http://www.acebigdata.com/tags/markdown/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>www.acebigdata.com/tags/markdown/</guid>
+      <guid>http://www.acebigdata.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Learning</title>
-      <link>www.acebigdata.com/tags/statistical-learning/</link>
+      <link>http://www.acebigdata.com/tags/statistical-learning/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>www.acebigdata.com/tags/statistical-learning/</guid>
+      <guid>http://www.acebigdata.com/tags/statistical-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tools</title>
-      <link>www.acebigdata.com/tags/tools/</link>
+      <link>http://www.acebigdata.com/tags/tools/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>www.acebigdata.com/tags/tools/</guid>
+      <guid>http://www.acebigdata.com/tags/tools/</guid>
       <description></description>
     </item>
     
