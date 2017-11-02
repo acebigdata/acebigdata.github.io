@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on ACE big data</title>
-    <link>www.acebigdata.com/tags/markdown/</link>
+    <link>http://www.acebigdata.com/tags/markdown/</link>
     <description>Recent content in Markdown on ACE big data</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2017 Copyright AceBigData</copyright>
     <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.acebigdata.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.acebigdata.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Markdown</title>
-      <link>www.acebigdata.com/post/markdown/</link>
+      <link>http://www.acebigdata.com/post/markdown/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>www.acebigdata.com/post/markdown/</guid>
+      <guid>http://www.acebigdata.com/post/markdown/</guid>
       <description>This tutorial shows how to use markdown tools. Even though I love emacs orgmode, it&amp;rsquo;s still important and interesting to learn the markdown language.
 Creating the Emphasis  Can either use &amp;ldquo;_&amp;rdquo; or &amp;ldquo;*&amp;rdquo; to wrap around text
  e.g. * for Italic Code
