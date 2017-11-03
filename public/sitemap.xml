@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.acebigdata.com/post/d3/</loc>
+    <loc>http://www.acebigdata.com/post/d3&#43;visualization&#43;embedded&#43;in&#43;jupyter&#43;notebook/</loc>
     <lastmod>2017-11-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,12 +78,6 @@
   </url>
   
   <url>
-    <loc>http://www.acebigdata.com/tags/jupyter-notebook/</loc>
-    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.acebigdata.com/tags/markdown/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -146,6 +140,12 @@
   <url>
     <loc>http://www.acebigdata.com/categories/tools/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acebigdata.com/tags/visualization/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
