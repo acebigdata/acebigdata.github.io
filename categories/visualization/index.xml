@@ -27,7 +27,12 @@ import matplotlib.pyplot as plt import numpy as np import pandas as pd dry =[0.3
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.acebigdata.com/post/d3testing/</guid>
-      <description>Try to embed d3 into the md    var data = d3.range(40).map(function(i) { return i % 5 ? {x: i / 39, y: (Math.sin(i / 3) + 2) / 4} : null; }); var margin = {top: 40, right: 40, bottom: 40, left: 40}, width = 960 - margin.left - margin.right, height = 500 - margin.top - margin.bottom; var x = d3.scaleLinear() .range([0, width]); var y = d3.scaleLinear() .</description>
+      <description>title: &amp;ldquo;Start Writing&amp;rdquo; date: 2017-11-03 tags: [&amp;ldquo;&amp;rdquo;, &amp;ldquo;&amp;rdquo;] categories: [&amp;ldquo;python&amp;rdquo;] menu: main:
+parent: Python Start writing&amp;hellip;
+Try to embed d3 into the md
+  
+var data = d3.range(40).map(function(i) { return i % 5 ? {x: i / 39, y: (Math.sin(i / 3) + 2) / 4} : null; });
+var margin = {top: 40, right: 40, bottom: 40, left: 40}, width = 960 - margin.left - margin.right, height = 500 - margin.</description>
     </item>
     
   </channel>
