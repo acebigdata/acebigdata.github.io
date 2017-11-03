@@ -7,6 +7,8 @@ canonifyurls = true
 [params]
   description = "Big data in Action! This website contains a number of data science projects" #optional
   googleanalytics = "UA-78795127-1" # optional
+  favicon = "img/favicon.ico"
+  
 
 # optional
 [social]

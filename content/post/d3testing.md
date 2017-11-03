@@ -5,9 +5,23 @@ date: 2017-11-02
 tags: ["", ""]
 categories: ["Visualization"]
 menu:
-main:
-parent: Javascript
+  main:
+    parent: Javascript
 ---
+
+
+---
+title: "Start Writing"
+date: 2017-11-03
+tags: ["", ""]
+categories: ["python"]
+menu:
+  main:
+    parent: Python
+---
+
+Start writing...
+
 
 Try to embed d3 into the md
 
