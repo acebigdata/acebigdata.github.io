@@ -48,15 +48,6 @@
     </item>
     
     <item>
-      <title>Jupyter Notebook</title>
-      <link>http://www.acebigdata.com/tags/jupyter-notebook/</link>
-      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.acebigdata.com/tags/jupyter-notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Markdown</title>
       <link>http://www.acebigdata.com/tags/markdown/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
@@ -107,6 +98,15 @@
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.acebigdata.com/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>http://www.acebigdata.com/tags/visualization/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acebigdata.com/tags/visualization/</guid>
       <description></description>
     </item>
     
