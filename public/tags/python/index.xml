@@ -20,15 +20,5 @@
       <description>Embed D3 in Jupyter In tis tutorial, I will embed D3 object into Jupyter Notebook. It&#39;s not recommended but would benefit from a literate programming perspective  D3 Visualization Embedded in Jupyter Notebook  /*! * * Twitter Bootstrap * */ /*! * Bootstrap v3.3.7 (http://getbootstrap.com) * Copyright 2011-2016 Twitter, Inc. * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */ /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */ html { font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; } body { margin: 0; } article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; } audio, canvas, progress, video { display: inline-block; vertical-align: baseline; } audio:not([controls]) { display: none; height: 0; } [hidden], template { display: none; } a { background-color: transparent; } a:active, a:hover { outline: 0; } abbr[title] { border-bottom: 1px dotted; } b, strong { font-weight: bold; } dfn { font-style: italic; } h1 { font-size: 2em; margin: 0.</description>
     </item>
     
-    <item>
-      <title>Data Visualization Matplotlib</title>
-      <link>http://www.acebigdata.com/post/data-visualization-matplotlib/</link>
-      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.acebigdata.com/post/data-visualization-matplotlib/</guid>
-      <description>Following a review of basic plotting with Matplotlib, this chapter delves into customizing plots using Matplotlib. This includes overlaying plots, making subplots, controlling axes, adding legends and annotations, and using different plot styles.
-import matplotlib.pyplot as plt import numpy as np import pandas as pd dry =[0.33,0.27,0.32,0.41,0.42,0.45,0.57,0.52,0.45,0.39,0.37,0.37] wet = [0.66,0.72,0.67,0.58,0.57,0.54,0.42,0.47,0.54,0.60,0.62,0.62] t = np.arange(1,13) plt.plot(t, dry, &amp;quot;red&amp;quot;) plt.plot(t, wet, &amp;quot;blue&amp;quot;) # Appear on the same axes plt.xlabel(&amp;quot;Date&amp;quot;) plt.title(&amp;quot;dry vs. wet&amp;quot;) plt.show()  </description>
-    </item>
-    
   </channel>
 </rss>

@@ -6,19 +6,10 @@
     <description>Recent content in Tags on ACE big data</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2017 Copyright AceBigData</copyright>
-    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.acebigdata.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>http://www.acebigdata.com/tags/</link>
-      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.acebigdata.com/tags/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>D3</title>
@@ -26,15 +17,6 @@
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.acebigdata.com/tags/d3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Visualization</title>
-      <link>http://www.acebigdata.com/tags/data-visualization/</link>
-      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.acebigdata.com/tags/data-visualization/</guid>
       <description></description>
     </item>
     
@@ -53,15 +35,6 @@
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.acebigdata.com/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matplotlib</title>
-      <link>http://www.acebigdata.com/tags/matplotlib/</link>
-      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.acebigdata.com/tags/matplotlib/</guid>
       <description></description>
     </item>
     
