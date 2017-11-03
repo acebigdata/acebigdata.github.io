@@ -21,11 +21,38 @@
     </item>
     
     <item>
+      <title>D3</title>
+      <link>http://www.acebigdata.com/tags/d3/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acebigdata.com/tags/d3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Visualization</title>
       <link>http://www.acebigdata.com/tags/data-visualization/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.acebigdata.com/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>http://www.acebigdata.com/tags/javascript/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acebigdata.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>http://www.acebigdata.com/tags/jupyter-notebook/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acebigdata.com/tags/jupyter-notebook/</guid>
       <description></description>
     </item>
     
@@ -50,7 +77,7 @@
     <item>
       <title>Python</title>
       <link>http://www.acebigdata.com/tags/python/</link>
-      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.acebigdata.com/tags/python/</guid>
       <description></description>
