@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.acebigdata.com/post/d3/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.acebigdata.com/post/pandas-brandon-rhodes-part2/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
@@ -45,7 +50,7 @@
   
   <url>
     <loc>http://www.acebigdata.com/</loc>
-    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,8 +60,26 @@
   </url>
   
   <url>
+    <loc>http://www.acebigdata.com/tags/d3/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.acebigdata.com/tags/data-visualization/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acebigdata.com/tags/javascript/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.acebigdata.com/tags/jupyter-notebook/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -74,13 +97,13 @@
   
   <url>
     <loc>http://www.acebigdata.com/post/</loc>
-    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.acebigdata.com/tags/python/</loc>
-    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -128,7 +151,7 @@
   
   <url>
     <loc>http://www.acebigdata.com/categories/visualization/</loc>
-    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
